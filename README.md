@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Deepika Bhumi Reddy!
+# 👋 Hi, I'm Deepika Bhumireddy!
 
-### 💻 Computer Science Engineer | AI & ML Enthusiast | Full-Stack Developer
+### 💻 Computer Science Student | Full-Stack Developer | AI & ML Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Backend+Development+Enthusiast;DSA+%7C+Java+%7C+Python+%7C+SQL;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Java+%7C+Python+%7C+JavaScript;Web+Development+Enthusiast;DSA+%7C+OOP+%7C+SQL;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,66 +22,67 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning**, passionate about building real-world applications and solving problems through technology.
+I'm a Computer Science student with a strong foundation in **Java, web technologies, databases, and software development principles**, passionate about building practical and user-focused applications.
 
-- 🎓 B.Tech in Computer Science & Engineering — AI & ML
-- 💼 Full Stack Developer Intern
-- 🤖 Interested in Artificial Intelligence, Machine Learning & Generative AI
-- 💻 Passionate about Backend Development, Full-Stack Development & Software Engineering
-- 🧩 Actively strengthening my Data Structures & Algorithms skills
-- 🏆 Participated in multiple hackathons and technical competitions
-- 📜 ServiceNow Certified System Administrator & Application Developer
-- 🚀 Always learning, building and exploring new technologies
+- 🎓 Pursuing Bachelor of Computer Science at **Mohan Babu University**
+- 💻 Interested in **Full-Stack Development**
+- ☕ Strong foundation in **Java**
+- 🐍 Familiar with **Python**
+- 🌐 Interested in modern web development
+- 🧩 Continuously improving my **Data Structures & Algorithms** skills
+- 🗄️ Interested in database-driven applications
+- 🚀 Passionate about learning, building, and solving real-world problems
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JDBC-Database%20Connectivity-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-API%20Development-02569B?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### 🤖 AI / ML & Generative AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Generative%20AI-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧠 Core Concepts
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Problem%20Solving-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-purple?style=for-the-badge" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
-
-### 🧠 Core Computer Science
-
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks` • `SQL` • `REST APIs`
 
 ---
 
@@ -89,21 +90,20 @@ I'm a **Computer Science and Engineering student specializing in Artificial Inte
 
 ## 🚀 Full Stack Developer Intern
 
-### Aatonovaz / Auto Novus Technologies
+### Aatonovaz Technologies
 
-**February 2026 – Present**
+**February 2026 – August 2026**
 
-Working on an **AI-powered meeting automation platform** that extracts actionable information from meetings and helps users manage tasks and events.
+Worked on an **AI-powered meeting automation platform** that converts meeting discussions into actionable tasks and calendar events.
 
 ### 🔹 Contributions
 
-- 🚀 Contributing to an AI-powered meeting automation platform
-- 📋 Worked on task creation and task management features
-- 📅 Contributed to event scheduling functionality
-- 🔗 Integrated Calendar APIs
-- 📊 Contributed to Health Score functionality
-- 📈 Worked on Burnup and Burndown charts
-- 💻 Contributed across frontend and backend application features
+- 🚀 Contributed to an AI-powered meeting automation platform
+- 📋 Worked on converting meeting discussions into actionable tasks
+- 📅 Contributed to calendar event creation and scheduling
+- 🔗 Built and integrated APIs for task creation and event scheduling
+- 💻 Collaborated with the development team on full-stack features
+- ⚙️ Contributed to scalable application features and meeting data processing
 
 ---
 
@@ -113,21 +113,23 @@ Working on an **AI-powered meeting automation platform** that extracts actionabl
 
 **Java Swing • MySQL • JDBC**
 
-A desktop-based hospital management application developed to manage patients, doctors, billing, rooms, ambulances and other hospital operations.
+A full-stack hospital management application designed to handle authentication, CRUD operations, database integration, and essential hospital workflows.
 
 ### ✨ Features
 
 - 🔐 Authentication
 - 👨‍⚕️ Doctor management
 - 🧑‍⚕️ Patient management
+- 📅 Doctor scheduling
 - 💳 Billing management
-- 🚑 Ambulance availability
-- 🛏️ Room availability
+- 👨‍💼 Admin workflows
 - 📋 CRUD operations
-- 🗄️ MySQL database integration
-- 🔗 JDBC connectivity
+- 🗄️ Database integration
+- ⚡ Efficient database operations
 
-**Tech Stack:** `Java` `Java Swing` `MySQL` `JDBC`
+### 🛠️ Tools Used
+
+`Java Swing` `MySQL` `JDBC`
 
 <p>
   <a href="https://github.com/deepikabhumireddy/Hospital-Management-System">
@@ -137,45 +139,24 @@ A desktop-based hospital management application developed to manage patients, do
 
 ---
 
-## 🤖 RAG-Based Resume Shortlisting System
-
-**Python • LangChain • FAISS • Streamlit**
-
-An AI-powered application designed to analyze resumes and assist with candidate shortlisting using **Retrieval-Augmented Generation (RAG)**.
-
-### ✨ Features
-
-- 📄 Resume document processing
-- 🔍 Semantic search
-- 🧠 Retrieval-Augmented Generation
-- 📊 Candidate analysis
-- 🗂️ Vector-based document retrieval
-- 🖥️ Interactive Streamlit interface
-
-**Tech Stack:** `Python` `LangChain` `RAG` `FAISS` `Streamlit`
-
-<p>
-  <a href="https://github.com/deepikabhumireddy">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🔊 Text-to-Voice Converter
 
-**HTML • CSS • JavaScript • Web Speech API**
+**HTML • CSS • JavaScript**
 
-A browser-based application that converts written text into speech using browser speech capabilities.
+A web-based application that converts text input into speech using browser APIs.
 
 ### ✨ Features
 
 - 📝 Text input
 - 🔊 Text-to-speech conversion
-- 🎛️ Speech controls
-- ⚡ Interactive user interface
+- ⚡ Real-time output
+- 🖱️ Event-driven interactions
+- 🌐 DOM manipulation
+- 🎯 Interactive user workflow
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Web Speech API`
+### 🛠️ Tools Used
+
+`HTML5` `CSS3` `JavaScript`
 
 <p>
   <a href="https://github.com/deepikabhumireddy/Text-to-Voice">
@@ -185,21 +166,23 @@ A browser-based application that converts written text into speech using browser
 
 ---
 
-## 🌦️ Weather Application
+## 🌦️ Weather App
 
-**HTML • CSS • JavaScript • OpenWeather API**
+**HTML • CSS • JavaScript • API**
 
-A responsive weather application that retrieves weather information using the OpenWeather API and displays dynamic results through an interactive interface.
+A responsive web application that provides real-time weather updates using API integration.
 
 ### ✨ Features
 
-- 🌍 Weather information lookup
-- 🌡️ Real-time weather data
+- 🌍 Real-time weather information
 - 🔗 API integration
-- ⚡ Dynamic data rendering
+- ⚡ Asynchronous data fetching
+- 🔄 Dynamic UI updates
 - 📱 Responsive interface
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `OpenWeather API`
+### 🛠️ Tools Used
+
+`HTML5` `CSS3` `JavaScript` `API`
 
 <p>
   <a href="https://github.com/deepikabhumireddy/Weather-App">
@@ -209,46 +192,40 @@ A responsive weather application that retrieves weather information using the Op
 
 ---
 
-# 🏆 Achievements & Hackathons
-
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 🥈 **L&T Techgium 2025** | Runner-Up — Digital Twin for Building Management System |
-| 🏅 **NXP AIM 2024** | Finalist — Level 3 Autonomous Car |
-| 🏅 **TIH ATMAN 2.0** | Finalist — Smart Fogponics System |
-| 👩‍💻 **Smart India Hackathon** | Team Lead |
-
----
-
 # 📜 Certifications
 
 <p>
   <img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator-032D42?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer-032D42?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle-Databases%20for%20Developers%3A%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
+
+### 🏅 Certifications
+
+- **ServiceNow Certified System Administrator (CSA)**
+- **ServiceNow Certified Application Developer (CAD)**
+- **Databases for Developers: Foundations — Oracle**
 
 ---
 
 # 🧩 Data Structures & Algorithms
 
-I regularly practice **Data Structures and Algorithms** to improve my problem-solving skills and strengthen my programming fundamentals.
+I am continuously strengthening my problem-solving skills through **Data Structures, Algorithms, and Object-Oriented Programming**.
 
-### 📚 Areas of Practice
+### 📚 Core Areas
 
-`Arrays` `Strings` `Linked Lists` `Stacks` `Queues` `Hashing` `Recursion` `Sorting` `Searching` `Trees` `Graphs`
+`Data Structures` • `Algorithms` • `Object-Oriented Programming` • `Problem Solving`
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Improving
 
 ```text
-🤖 Artificial Intelligence & Generative AI
-🧠 Machine Learning
+☕ Java
+🐍 Python
+🌐 JavaScript
+⚛️ React.js
+🔗 RESTful APIs
+🗄️ SQL & MySQL
 🧩 Data Structures & Algorithms
-⚙️ Backend Development
-🌐 Full-Stack Development
-🗄️ Advanced SQL & Database Design
-🔗 REST API Development
-🐳 Docker & Deployment
-
-
+💡 Object-Oriented Programming
